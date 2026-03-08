@@ -4,7 +4,7 @@ import AboutImg from '../assets/about.jpg';
 
 export const About = () => {
   return (
-    <section id="about" className="py-24 bg-white overflow-hidden text-justify">
+    <section id="about" className="py-24 bg-white overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <motion.div
@@ -20,7 +20,7 @@ export const About = () => {
               A Rustic Haven in the <br />
               Heart of Victoria Island
             </h2>
-            <div className="space-y-6 text-ink/70 leading-relaxed text-lg">
+            <div className="space-y-6 text-ink/70 leading-relaxed text-lg text-justify">
               <p>
                 La Taverna Lagos was born from a passion for the simple, honest flavors of the Mediterranean. 
                 Inspired by the bustling tavernas of Spain and the cozy trattorias of Italy, we brought a 
