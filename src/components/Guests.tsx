@@ -12,7 +12,7 @@ export const Guests = () => {
     : GUEST_ITEMS.filter(item => item.category === activeCategory);
 
   return (
-    <section id="menu" className="py-24 bg-cream">
+    <section id="menu" className="py-24 bg-cream text-justify">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-serif mb-4">What Guests Are Saying</h2>
