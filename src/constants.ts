@@ -2,7 +2,7 @@ import { MenuItem, NavItem, GuestItem, Photo } from './types';
 import tacoTuesday from './assets/taco-tuesday.jpg'
 import pizzaWednesday from './assets/pizza-wednesday.jpg'
 import pastaThursday from './assets/pasta-thursday.jpg'
-import Seafood from './assets/seafood.jpg'
+import Seafood from './assets/Seafood.jpg'
 import RedCake from './assets/red-cake.jpg'
 import ginBasil from './assets/gin-Basil.jpg'
 import JollofAlAjillo from './assets/jollof-al-ajillo.jpg'
